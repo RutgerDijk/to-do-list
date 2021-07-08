@@ -1,0 +1,53 @@
+html {
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+}
+
+body {
+    padding: 0;
+    margin: 0 auto;
+    vertical-align: middle;
+    align-items: center;
+    padding-left: 40%;
+}
+
+.container {
+    width: auto;
+    vertical-align: middle;
+}
+
+#inputField {
+    background-color: rgb(255, 255, 255, 0.5);
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size:  25px;
+    font-style: solid black ;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border: 0.5px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    background: white;
+    opacity: 0.75;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.to-dos{
+    margin-top: 25px;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
